@@ -1,0 +1,17 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5-file": "^4.0.0",
+    "sqlite3": "^4.0.2",
+    "tokenize-english": "^1.0.3",
+    "tokenize-text": "^1.1.3"
+  }
+}
